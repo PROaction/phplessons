@@ -11,6 +11,7 @@
   $car = "BMW";
   $model = 525;
   $test = "test";
+  $test2 = "test2";
   
   //echo "Buy $car! <br />";
   //echo date('H:i');
